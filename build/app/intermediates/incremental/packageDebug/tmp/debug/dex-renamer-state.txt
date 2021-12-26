@@ -1,0 +1,4 @@
+#Sun Dec 26 19:44:05 IST 2021
+base.0=D\:\\project\\Flutterverse-Week-1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
